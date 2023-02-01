@@ -1,9 +1,6 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Custom properties
 
-# Naam deeltaak
-
+Bij deze deeltaak heb ik gebruik gemaakt van css properties zoals variabelen zodat ik minder code heb en je de kleur van verschillende elementen tegelijk kan veranderen zonder te hoeven zoeken naar de juiste class.
 
 ## Licentie
 
